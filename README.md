@@ -15,6 +15,7 @@ edit /etc/ddclient.conf
 
 example configuration:
 
+```
 daemon=3600
 use=web, web=dynamicdns.park-your-domain.com/getip
 protocol=namecheap
@@ -29,6 +30,7 @@ server=dynamicdns.park-your-domain.com
 login=another.com
 password='abc123'
 @.another.com
+```
 
 
 Test Configuration
